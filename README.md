@@ -68,6 +68,10 @@
 # Secure ASP.NET Core WEB API
 + https://www.thereformedprogrammer.net/finally-a-library-that-improves-role-authorization-in-asp-net-core/
 + https://jasonwatmore.com/post/2019/10/16/aspnet-core-3-role-based-authorization-tutorial-with-example-api
++ https://procodeguide.com/programming/aspnet-core-identity-roles-authorization/
+  + https://github.com/procodeguide/Samples.Identity.Claims
+  + https://github.com/gtechsltn/Samples.Identity.Claims
++ https://www.c-sharpcorner.com/article/policy-based-role-based-authorization-in-asp-net-core/
 
 ## Token + Refresh Token
 + https://codewithmukesh.com/blog/refresh-tokens-in-aspnet-core/
