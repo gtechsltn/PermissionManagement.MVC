@@ -4,6 +4,15 @@
 + Role-Based Authorization
 + Permission-Based Authorization
 
+# Amazon S3 + ASP.NET Core + SeriLog
++ https://www.jenx.si/2019/08/02/amazon-s3-and-net-core/
++ https://github.com/josipx/Jenx.Aws.Playground
++ https://github.com/gtechsltn/Jenx.Aws.Playground
++ https://medium.com/cloudy-days/logging-data-using-net-core-and-amazon-web-services-59571f246a21
++ https://referbruv.com/blog/posts/integrating-aspnet-core-api-logs-to-amazon-cloudwatch-via-ilogger
++ https://www.thetechplatform.com/post/how-to-upload-any-file-on-amazon-simple-storage-service-aws-s3-in-asp-net-core-project
++ https://www.c-sharpcorner.com/blogs/aws-cloudwatch-integration-using-serilog-sinks-in-net-core-api-and-custom-logging-mechanism
+
 # Articles:
 
 ## https://codewithmukesh.com/blog/permission-based-authorization-in-aspnet-core/
