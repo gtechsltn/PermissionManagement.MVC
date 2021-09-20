@@ -3,3 +3,94 @@
 + ASP.NET Core WEB API
 + Role-Based Authorization
 + Permission-Based Authorization
+
+## https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture/
++ https://github.com/iammukeshm/CleanArchitecture.WebApi
++ https://github.com/gtechsltn/CleanArchitecture.WebApi
+
+## https://codewithmukesh.com/project/aspnet-core-hero-boilerplate/
++ https://github.com/iammukeshm/AspNetCoreHero-Boilerplate
++ https://github.com/gtechsltn/AspNetCoreHero-Boilerplate
+
+## https://codewithmukesh.com/blog/razor-page-crud-in-aspnet-core/
++ https://github.com/iammukeshm/RazorCRUD.jQueryAJAX
++ https://github.com/gtechsltn/RazorCRUD.jQueryAJAX
+
+## https://codewithmukesh.com/blog/permission-based-authorization-in-aspnet-core/
++ https://github.com/iammukeshm/PermissionManagement.MVC
++ https://github.com/gtechsltn/PermissionManagement.MVC
+
+## https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/
++ https://github.com/iammukeshm/JWTAuthentication.WebApi
++ https://github.com/gtechsltn/JWTAuthentication.WebApi
+
+## https://codewithmukesh.com/blog/pagination-in-aspnet-core-webapi/
++ https://github.com/iammukeshm/Pagination.WebApi
++ https://github.com/gtechsltn/Pagination.WebApi
+
+## https://codewithmukesh.com/blog/serilog-in-aspnet-core-3-1/
++ https://github.com/iammukeshm/Serilog.WebApplication
++ https://github.com/gtechsltn/Serilog.WebApplication
+
+## https://www.codewithmukesh.com/blog/repository-pattern-in-aspnet-core/
++ https://github.com/iammukeshm/RepositoryPattern.WebApi
++ https://github.com/gtechsltn/RepositoryPattern.WebApi
+
+## https://codewithmukesh.com/blog/serilog-in-aspnet-core-3-1/
++ https://github.com/iammukeshm/Serilog.WebApplication
++ https://github.com/gtechsltn/Serilog.WebApplication
+
+## https://codewithmukesh.com/blog/pagination-in-aspnet-core-webapi/
++ https://github.com/iammukeshm/Pagination.WebApi
++ https://github.com/gtechsltn/Pagination.WebApi
+
+## https://github.com/iammukeshm/CleanArchitecture.WebApplication
++ https://github.com/iammukeshm/CleanArchitecture.WebApplication
++ https://github.com/gtechsltn/CleanArchitecture.WebApplication
+
+## https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/
++ https://marketplace.visualstudio.com/items?itemName=MukeshMurugan.CleanArchitectureWebApi
++ https://github.com/iammukeshm/OnionArchitecture
++ https://github.com/iammukeshm/AspNetCoreHero-Boilerplate
+
+## https://github.com/iammukeshm/EFCore.CodeFirst.WebApi
++ https://github.com/iammukeshm/EFCore.CodeFirst.WebApi
++ https://github.com/gtechsltn/EFCore.CodeFirst.WebApi
+
+## https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/
++ https://github.com/iammukeshm/CQRS.WebApi
++ https://github.com/gtechsltn/CQRS.WebApi
+
+## COVID19.Tracker
++ https://github.com/iammukeshm/COVID19.Tracker
++ https://github.com/gtechsltn/COVID19.Tracker
+
+# Secure ASP.NET Core WEB API
++ https://www.thereformedprogrammer.net/finally-a-library-that-improves-role-authorization-in-asp-net-core/
++ https://jasonwatmore.com/post/2019/10/16/aspnet-core-3-role-based-authorization-tutorial-with-example-api
+
+## Token + Refresh Token
++ https://codewithmukesh.com/blog/refresh-tokens-in-aspnet-core/
++ https://github.com/iammukeshm/JWTAuthentication.WebApi
++ https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/
++ https://github.com/iammukeshm/JWTAuthentication.WebApi
+
+## Token + Refresh Token
++ https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
++ https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api
++ https://jasonwatmore.com/post/2020/05/25/aspnet-core-3-api-jwt-authentication-with-refresh-tokens
++ https://github.com/cornflourblue/aspnet-core-3-jwt-refresh-tokens-api
+
+## https://codewithmukesh.com/blog/best-libraries-for-aspnet-core/
++ Serilog / NLog
++ Hangfire / Quartz
++ RabbitMQ
++ Dapper / Entity Framework Core
++ Health checks
++ SignalR
++ Newtonsoft
++ NUnit
++ MediatR
++ Fluent Validations
++ MiniProfiler
++ Auto Mapper
