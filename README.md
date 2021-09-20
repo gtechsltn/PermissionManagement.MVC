@@ -4,6 +4,16 @@
 + Role-Based Authorization
 + Permission-Based Authorization
 
+# Articles:
+
+## https://codewithmukesh.com/blog/permission-based-authorization-in-aspnet-core/
++ https://github.com/iammukeshm/PermissionManagement.MVC/
++ https://github.com/gtechsltn/PermissionManagement.MVC/
+
+## https://codewithmukesh.com/blog/user-management-in-aspnet-core-mvc/
++ https://github.com/iammukeshm/CustomUserManagement.MVC
++ https://github.com/gtechsltn/CustomUserManagement.MVC
+
 ## https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture/
 + https://github.com/iammukeshm/CleanArchitecture.WebApi
 + https://github.com/gtechsltn/CleanArchitecture.WebApi
